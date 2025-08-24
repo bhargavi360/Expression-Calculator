@@ -44,4 +44,4 @@ Run the calculator:
 
 ./calculator
 
-https://image2url.com/images/1756018982485-265472b0-aa5b-46ed-a0e4-14daae86eb13.png
+
